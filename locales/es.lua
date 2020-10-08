@@ -1,15 +1,15 @@
-Locales['en'] = {
-	['start_hint'] = 'Talk with Albin',
-	['drive_text'] = 'Drive to the marked ~g~position',
-	['not_in_vehicle'] = 'Get in a ~b~vehicle~w~!',
-	['hot_wire'] = '~r~Hotwiring vehicle',
-	['remove_transmitter_1'] = 'Removing the transmitter, lose the ~b~cops~w~! ~r~',
-	['remove_transmitter_2'] = '~w~s remaining!',
+Locales['es'] = {
+	['start_hint'] = 'Habla con el encargado',
+	['drive_text'] = 'Conduce hasta la ~g~posición marcada',
+	['not_in_vehicle'] = '¡Consigue un vehículo ~b~vehículo~w~!',
+	['hot_wire'] = '~r~Forzando vehículo y arrancándolo',
+	['remove_transmitter_1'] = 'Retirando el localizador, ¡pierde a la ~b~policía~w~! ~r~',
+	['remove_transmitter_2'] = '¡~w~s restantes!',
 	['police_message'] = 'Car theft in progress at Grove Street',
 	['money'] = ' $',
-	['mission_finished'] = 'Well done! You earned: ',
-	['play_server'] = 'You need to play on the server for ~',
-	['until_steal'] = ' hours until you can steal a vehicle again!',
-	['no_cops'] = 'There are not enough cops connected!',
+	['mission_finished'] = '¡Bien hecho! Vuelve a hablar con el encargado: ',
+	['play_server'] = 'Necesitas esperar en el servidor durante ~',
+	['until_steal'] = '¡ horas hasta que pueda volver a robar un vehículo!',
+	['no_cops'] = '¡No hay suficientes policías conectados!',
 	
 }
